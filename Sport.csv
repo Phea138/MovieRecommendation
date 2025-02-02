@@ -1,0 +1,81 @@
+Movie,Director,Runningtime,Year,User-1,User-2,User-3,User-4,User-5,User-6,User-7,User-8,User-9,User-10,User-11,User-12,User-13,User-14,User-15,User-16,User-17,User-18,User-19,User-20
+80 for Brady,Kyle Marvin,98 min,2023,5,1,3,5,2,5,4,5,5,3,0,0,3,3,2,5,0,4,4,0
+True Spirit,Sarah Spillane,109 min,2023,2,1,3,3,5,5,0,4,5,1,0,4,1,0,2,4,2,5,3,2
+Creed III,Michael B. Jordan,116 min,2023,5,5,4,4,2,2,3,3,0,5,1,0,1,5,4,5,4,0,2,0
+Ford v Ferrari,James Mangold,152 min,2019,4,4,4,3,3,5,2,2,0,0,2,1,3,5,0,5,2,2,1,1
+Rocky,John G. Avildsen,120 min,1976,5,2,4,3,4,4,3,1,4,3,3,4,3,0,0,5,1,3,1,4
+Happy Gilmore,Dennis Dugan,92 min,1996,1,0,2,3,5,3,5,1,4,0,2,3,3,5,0,0,1,0,1,2
+White Men Can't Jump,Calmatic,101 min,2023,5,4,3,3,5,5,3,1,0,2,0,3,4,3,1,2,1,5,1,5
+Cars,"John Lasseter, Joe Ranft",117 min,2006,1,1,3,5,2,5,2,0,1,3,0,2,0,4,5,1,4,2,3,0
+Hustle,Jeremiah Zagar,117 min,2022,4,5,1,2,0,2,3,2,5,1,5,3,3,4,4,3,1,2,3,4
+Slap Shot,George Roy Hill,123 min,1977,5,4,3,1,1,5,0,0,2,1,2,4,4,5,4,0,0,2,3,5
+The Swimmers,Sally El Hosaini,134 min,2022,3,1,3,2,3,4,0,3,0,4,1,0,2,0,2,4,3,0,3,5
+The Longest Yard,Peter Segal,113 min,2005,5,0,4,3,1,2,4,1,1,0,4,1,4,3,4,0,2,4,5,3
+Creed,Ryan Coogler,133 min,2015,5,1,5,1,4,5,3,4,1,4,1,5,1,0,4,2,2,1,3,5
+Moneyball,Bennett Miller,133 min,2011,0,2,3,1,5,1,5,2,4,1,3,2,0,4,4,3,1,4,3,4
+Jerry Maguire,Cameron Crowe,139 min,1996,5,3,1,3,5,1,0,5,3,5,4,2,1,0,0,2,5,1,1,3
+Big George Foreman,George Tillman Jr.,129 min,2023,1,2,1,4,3,3,4,3,4,5,4,0,5,2,5,5,4,0,1,3
+She's the Man,Andy Fickman,105 min,2006,0,1,5,2,0,2,4,2,1,4,2,4,1,2,0,0,2,3,0,1
+Warrior,Gavin O'Connor,140 min,2011,1,2,0,3,4,5,3,4,5,5,2,3,4,0,5,5,1,4,2,3
+The Karate Kid,John G. Avildsen,126 min,1984,0,0,0,2,4,0,2,3,1,3,1,3,5,5,5,0,2,0,1,3
+Creed II,Steven Caple Jr.,130 min,2018,2,3,3,5,2,3,1,2,5,1,4,1,3,2,1,3,2,5,4,3
+Talladega Nights: The Ballad of Ricky Bobby,Adam McKay,108 min,2006,2,1,0,3,1,4,1,1,0,4,2,2,5,2,4,4,2,4,5,1
+The Blind Side,John Lee Hancock,129 min,2009,0,3,3,4,3,5,2,4,1,5,5,5,1,2,2,1,3,3,4,0
+Remember the Titans,Boaz Yakin,113 min,2000,3,1,2,1,5,2,2,1,1,3,4,2,5,1,4,4,5,2,5,0
+Major League,David S. Ward,107 min,1989,4,3,1,4,0,0,1,2,3,5,3,5,3,1,5,3,0,3,0,1
+White Men Can't Jump,Ron Shelton,115 min,1992,4,1,4,3,3,4,1,5,2,2,0,1,0,4,3,1,5,5,2,1
+42,Brian Helgeland,128 min,2013,4,5,3,1,2,0,5,0,0,4,2,1,3,4,4,2,1,0,2,3
+Dodgeball,Rawson Marshall Thurber,92 min,2004,4,0,0,5,4,4,2,4,5,2,0,1,5,1,1,0,2,2,1,0
+"I, Tonya",Craig Gillespie,119 min,2017,1,2,3,0,0,3,1,4,2,5,4,1,4,1,4,1,5,4,2,4
+A League of Their Own,Penny Marshall,128 min,1992,2,3,0,5,3,4,1,2,2,0,3,0,2,2,4,4,0,5,4,1
+Molly's Game,Aaron Sorkin,140 min,2017,2,0,1,3,0,5,1,4,1,3,2,3,1,1,5,2,2,1,4,0
+Unbroken,Angelina Jolie,137 min,2014,4,0,3,0,1,4,4,5,1,3,0,4,0,4,0,3,5,2,4,3
+The Waterboy,Frank Coraci,90 min,1998,2,1,0,0,4,4,5,1,5,1,1,0,1,3,5,2,3,5,3,5
+Rocky IV,Sylvester Stallone,91 min,1985,5,0,3,3,4,2,3,3,3,1,0,1,3,3,0,5,0,2,5,3
+Coach Carter,Thomas Carter,136 min,2005,1,5,2,0,2,2,0,3,1,2,5,5,0,0,5,1,3,2,2,5
+Rocky Balboa,Sylvester Stallone,102 min,2006,4,4,3,4,0,1,2,2,1,5,4,2,5,3,5,0,4,3,5,0
+Champions,Bobby Farrelly,123 min,2023,0,0,5,2,4,0,2,0,5,0,0,1,3,4,5,2,2,5,2,0
+Kingpin,"Bobby Farrelly, Peter Farrelly",114 min,1996,2,3,3,4,1,5,2,1,1,3,2,5,1,0,2,3,3,1,2,3
+Chariots of Fire,Hugh Hudson,125 min,1981,4,3,5,0,2,5,3,1,0,3,4,5,1,0,0,0,3,3,1,4
+Rush,Ron Howard,123 min,2013,1,3,5,3,1,1,4,1,2,4,3,4,3,4,0,5,1,1,5,5
+The Wrestler,Darren Aronofsky,109 min,2008,1,2,5,5,5,5,4,5,2,4,0,1,4,3,3,5,1,3,5,0
+Bring It On,Peyton Reed,98 min,2000,3,4,2,5,1,3,4,3,2,5,1,3,3,2,0,5,3,5,4,5
+The Sandlot,David Mickey Evans,101 min,1993,2,4,1,5,4,3,4,1,4,5,0,4,3,0,3,2,1,5,2,1
+Million Dollar Baby,Clint Eastwood,132 min,2004,0,2,2,1,1,0,0,1,3,5,1,3,0,1,5,4,4,4,5,0
+Raging Bull,Martin Scorsese,129 min,1980,3,3,2,0,0,1,4,5,1,5,2,1,2,5,1,1,0,4,5,0
+Southpaw,Antoine Fuqua,124 min,2015,4,3,3,1,5,1,3,3,3,3,2,0,5,0,4,3,4,1,2,0
+The Basketball Diaries,Scott Kalvert,102 min,1995,4,0,2,1,1,5,3,2,3,3,4,4,5,1,5,4,1,2,4,3
+King Richard,Reinaldo Marcus Green,144 min,2021,4,1,4,0,2,3,1,3,1,4,3,2,3,1,0,3,4,1,4,3
+The Longest Yard,Robert Aldrich,121 min,1974,5,1,4,2,2,0,0,1,0,2,2,0,0,5,3,0,1,5,3,3
+The Black Stallion,Carroll Ballard,118 min,1979,1,2,4,4,4,4,5,1,1,5,5,0,0,2,2,3,1,1,3,3
+The Fighter,David O. Russell,116 min,2010,1,5,1,1,2,1,1,5,5,4,4,0,4,0,3,0,2,0,4,5
+Caddyshack,Harold Ramis,98 min,1980,4,3,2,0,4,5,2,3,3,4,3,4,3,5,3,1,3,2,1,4
+Rocky V,John G. Avildsen,104 min,1990,3,0,0,1,2,3,4,5,1,0,2,1,2,0,3,3,3,4,0,4
+Vision Quest,Harold Becker,107 min,1985,2,4,1,4,4,4,4,3,4,2,3,0,3,0,5,3,0,4,3,1
+Point Break,Ericson Core,114 min,2015,2,0,4,1,5,1,3,2,5,1,1,5,4,2,3,5,5,4,0,1
+Rocky III,Sylvester Stallone,99 min,1982,5,4,3,0,3,1,2,1,5,4,0,1,2,4,2,5,0,2,5,4
+The Replacements,Howard Deutch,118 min,2000,3,5,4,2,0,0,0,2,1,4,1,2,2,3,5,5,4,2,2,1
+Home Team,"Charles Kinnane,Daniel Kinnane",95 min,2022,0,1,3,0,2,1,4,4,1,3,3,3,5,5,1,1,5,1,5,1
+Waves,Trey Edward Shults,135 min,2019,2,2,0,5,4,3,0,5,5,5,3,1,2,3,3,4,2,0,3,4
+Ski School,Damian Lee,89 min,1990,2,3,4,1,2,5,0,0,1,5,1,2,4,3,5,2,5,4,0,5
+Space Jam: A New Legacy,Malcolm D. Lee,115 min,2021,2,3,4,1,5,2,3,3,2,1,2,4,4,1,4,0,5,2,5,0
+Cars 2,"John Lasseter,Bradford Lewis",106 min,2011,5,3,3,0,4,2,1,3,3,0,1,2,5,2,1,3,3,5,1,5
+Rocky II,Sylvester Stallone,119 min,1979,4,4,3,4,0,4,3,1,5,5,4,4,3,5,4,4,1,2,3,5
+The Karate Kid,Harald Zwart,140 min,2010,5,2,1,0,0,2,2,4,3,3,2,3,5,2,2,5,0,5,1,5
+Space Jam,Joe Pytka,88 min,1996,0,1,3,2,1,1,2,3,1,5,4,0,2,4,5,5,3,5,4,4
+Real Steel,Shawn Levy,127 min,2011,4,1,5,5,2,4,3,2,1,5,3,2,0,4,5,5,5,4,5,0
+In from the Side,Matt Carter,134 min,2022,2,4,5,3,4,4,4,4,1,4,3,4,4,3,0,3,1,5,5,5
+The Mighty Ducks,Stephen Herek,104 min,1992,3,4,2,2,1,4,4,2,4,3,1,3,5,3,4,3,1,1,4,0
+Varsity Blues,Brian Robbins,106 min,1999,0,1,1,0,4,5,5,2,2,3,5,5,1,3,3,0,0,4,3,5
+Gran Turismo,Neill Blomkamp,134 min,2023,1,5,0,1,0,3,4,3,0,4,1,1,5,0,4,3,4,1,1,0
+The Cannonball Run,Hal Needham,95 min,1981,5,1,4,4,0,2,1,2,2,2,5,5,4,0,5,0,4,2,3,3
+Little Giants,Duwayne Dunham,107 min,1994,4,2,1,1,1,2,5,1,1,2,2,3,2,5,0,2,1,5,5,3
+Sous emprise,David M. Rosenthal,118 min,2022,5,4,2,2,4,5,2,0,2,0,1,0,2,0,5,5,0,4,1,4
+Lamborghini: The Man Behind the Legend,Bobby Moresco,97 min,2022,2,0,2,4,4,1,5,1,3,5,1,3,2,5,0,3,3,5,1,4
+The Survivor,Barry Levinson,129 min,2021,5,0,3,0,2,3,0,0,0,2,4,5,5,2,1,5,2,0,3,2
+Fighting with My Family,Stephen Merchant,108 min,2019,4,0,4,2,3,2,0,2,3,2,4,2,1,0,5,0,4,3,4,2
+Cars 3,Brian Fee,102 min,2017,2,5,2,0,0,0,2,3,5,4,5,3,1,1,4,2,5,1,2,4
+Uncle Drew,Charles Stone III,103 min,2018,1,2,5,5,3,1,3,0,0,2,0,3,2,0,2,0,5,1,4,5
+Days of Thunder,Tony Scott,107 min,1990,1,3,5,3,4,3,4,0,5,1,3,5,4,3,4,2,4,5,2,0
+Nacho Libre,Jared Hess,92 min,2006,4,3,5,1,4,5,5,3,1,4,3,2,0,3,5,5,0,0,0,3
+Any Given Sunday,Oliver Stone,162 min,1999,2,1,4,0,5,4,1,3,4,2,4,4,0,3,1,5,4,1,0,3
